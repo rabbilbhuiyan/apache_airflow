@@ -10,3 +10,5 @@ Wait for scheduler and webserver to get healthy, then go to localhost:8081
 - put your username: admin and password: airflow
 
 Enable the DAG and watch it ingest data.
+
+![Dag Ingest Data](./images/dag_image.png)

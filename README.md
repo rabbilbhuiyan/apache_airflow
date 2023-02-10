@@ -11,4 +11,4 @@ Wait for scheduler and webserver to get healthy, then go to localhost:8081
 
 Enable the DAG and watch it ingest data.
 
-![Dag Ingest Data](./images/dag_image.png)
+![Dag Ingest Data](./dag_image.png)
